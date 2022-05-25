@@ -1,0 +1,6 @@
+  .el-pagination .el-pager li.active{
+        color: #4485be;
+  }
+  .el-card.is-always-shadow{
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 10%);
+  }

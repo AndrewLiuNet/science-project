@@ -1,0 +1,41 @@
+{
+  "name": "science-repor",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@jiaminghi/charts": "^0.2.18",
+    "axios": "^0.24.0",
+    "core-js": "^2.6.5",
+    "echarts": "^5.2.2",
+    "element-ui": "^2.15.6",
+    "js-cookie": "^3.0.1",
+    "moment": "^2.29.3",
+    "node-sass": "^7.0.1",
+    "sass-loader": "6.0.0",
+    "style-loader": "^3.3.1",
+    "v-fit-columns": "^0.2.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuex": "2.0.0",
+    "wangeditor": "^4.7.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-service": "^3.0.4",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
